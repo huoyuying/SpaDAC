@@ -1,1 +1,3 @@
 # SpaDAC
+
+####### We proposed an unsupervised multi-model SPAtially embedded Deep Attentional graph Clustering (SpaDAC) method, which uses the deep learning framework to learn low-dimensional embeddings for spatial transcriptomics data. SpaDAC can efficiently identify spatial domains while reconstructing denoised gene expression profiles. We applied it to sixteen datasets covering three situations. Benchmark results demonstrated that SpaDAC outperforms other algorithms in most cases. We expected SpaDAC to offer a valuable computational tool for researchers to understand tissue organization and function.
