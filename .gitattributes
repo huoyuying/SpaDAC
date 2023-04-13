@@ -9,3 +9,4 @@ datasets/151673/* filter=lfs diff=lfs merge=lfs -text
 datasets/151673/151673/spatial/full_image.tif filter=lfs diff=lfs merge=lfs -text
 datasets/151673/notpca/d151673_def.csv filter=lfs diff=lfs merge=lfs -text
 image_feature_learning_tool/* filter=lfs diff=lfs merge=lfs -text
+image_feature_learning_tool/inception_resnet_v2/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
