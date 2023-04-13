@@ -6,3 +6,4 @@ denoising/151673_cor/cor_151673_inception_v3_cos.csv filter=lfs diff=lfs merge=l
 pretraining/151673/predaegc_151673_3000_adj1_adj6_49.pkl filter=lfs diff=lfs merge=lfs -text
 pretraining/151673/predaegc_151673_3000_adj1_adj6_99.pkl filter=lfs diff=lfs merge=lfs -text
 datasets/151673/* filter=lfs diff=lfs merge=lfs -text
+datasets/151673/151673/spatial/full_image.tif filter=lfs diff=lfs merge=lfs -text
