@@ -3,3 +3,5 @@ denoising/151673_cor/151673_adj.csv filter=lfs diff=lfs merge=lfs -text
 denoising/151673_cor/151673_rawexp.csv filter=lfs diff=lfs merge=lfs -text
 denoising/151673_cor/adj_151673_inception_v3_cos.csv filter=lfs diff=lfs merge=lfs -text
 denoising/151673_cor/cor_151673_inception_v3_cos.csv filter=lfs diff=lfs merge=lfs -text
+pretraining/151673/predaegc_151673_3000_adj1_adj6_49.pkl filter=lfs diff=lfs merge=lfs -text
+pretraining/151673/predaegc_151673_3000_adj1_adj6_99.pkl filter=lfs diff=lfs merge=lfs -text
